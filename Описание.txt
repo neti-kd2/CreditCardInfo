@@ -1,0 +1,13 @@
+API для определения логотипа, цветов банка и прочего по номеру карты
+
+https://cardinfo.online/
+
+моя почта: ak-mobile@ya.ru
+API ключ: b42a6348568170f9d79226469d3dad6b
+
+
+Все делается одним запросом
+https://api.cardinfo.online?apiKey=YOUR_API_KEY&input=123456
+
+Документация:
+https://cardinfo.online/doc
